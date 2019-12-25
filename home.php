@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="style.css">
 
-<form action="https://yannickbr.github.io/calculate.php">
+<form action="calculate.php">
 
 	<label>Default Action Time (in seconds)</label><br><input name="default_action_time" value="">
 	<br><br>
@@ -12,4 +12,4 @@
 	<label>Sell Price. The sell price of the item the minion generates.</label><br><input name="sell_price" value="">
 	<br><br>
 	<input type="submit" value="Submit" class="submit">
-</form>
+
